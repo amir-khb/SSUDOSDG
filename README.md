@@ -2,7 +2,7 @@
 <div align="center">
  
 #  SSUD-OSDG
-**Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization**
+**Uncertainty-Guided Open-Set Domain Generalization for Cross-Scene Hyperspectral Classification**
 
 [**A.Khoshbakht**](https://scholar.google.com/citations?user=kJc9KMwAAAAJ&hl=en), [**E.Aptoula**](https://sites.google.com/view/erchan-aptoula/) 
 
